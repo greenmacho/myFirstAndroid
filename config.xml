@@ -1,7 +1,7 @@
 <?xml version ="1.0" encooding = "UTF-8"?>
 <widget xmls = "http://www.w3.org/ns/widgets" 
 		xmlns:gap="http://phonegap.com/ns/1.0"
-		id		="com.phonegap.api-request"
+		id	="com.phonegap.api-request"
 		version	="1.0.0">
 		<name> My First App</name>
 		<preference name ="Fullscreen" value ="true"/>

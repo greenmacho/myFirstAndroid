@@ -1,0 +1,10 @@
+<?xml version ="1.0" encooding = "UTF-8"?>
+<widget xmls = "http://www.w3.org/ms/widgets" 
+		xmls:gap="http://phonegap.com/hs//1.0"
+		id		="com.phonegap.api-request"
+		version	="1.0.0">
+		<name> My First App</name>
+		<preference name ="Fullscreen" value ="true"/>
+		<description> This Application is my first hybrid application</description>
+		<icon src ="document/logo.png/>
+</widget>
